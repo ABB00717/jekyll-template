@@ -25,7 +25,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://abb00717.github.io"
+url: "https://abb00717.com"
 
 github:
   username: abb00717 # change to your GitHub username
@@ -48,7 +48,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: google-site-verification=oryY8Xd647rVnyTNRqpt9ujVJMxXgh-OheOVXVMIGuE # fill in your Google verification code
+  google: # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -61,7 +61,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-R58Q122YCM # fill in your Google Analytics ID
+    id: # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
