@@ -8,10 +8,8 @@ tag:
   - Interpol
   - 歌曲評論
 description: It's up to me now turn on the bright light
+image: ../assets/Turn_on_the_Bright_Lights.png
 ---
-
-![[image.png|264x264]]
-
 簡單、冷冽的吉他線條與聲線，配上過動的貝斯和鼓，這種「內在焦慮」以及「外在冷漠」的巨大反差，造就了整張專輯獨特的氛圍。就像是我會告訴你我愛你，但不會告訴你我有多愛你。專輯封面也緊扣專輯名稱《Turn On the Bright Lights》以及歌曲 「NYC」 的歌詞：「It's up to me now, turn on the bright lights.」舞台都準備好了，就等你上場。
 
 > 覺得和 Radiohead 的 In Rainbows 有異取同工之妙。《In Rainbows》就像「我就在這裡，但你摸不到我」。而《Turn on the Bright Lights》是「我就在這裡，僅只於此」。兩者都是距離，但溫度完全不同。
