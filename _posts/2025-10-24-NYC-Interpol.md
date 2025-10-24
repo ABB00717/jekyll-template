@@ -1,12 +1,13 @@
 ---
 layout: post
-title: NYC
+title: NYC - Interpol
 date: 2025-10-24 17:48 +0800
 categories:
   - 音樂
 tag:
   - Interpol
   - 歌曲評論
+description: It's up to me now turn on the bright light
 ---
 
 ![[image.png|264x264]]
