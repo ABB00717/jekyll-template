@@ -2,7 +2,7 @@
 layout: post
 title: Introducing ... ABB00717！
 date: 2025-09-13 16:26 +0800
-image: ../assets/lain_and_radiohead.jpg
+image: /assets/lain_and_radiohead.jpg
 tag: [自我介紹]
 categories: [個人]
 description: 關於 ABB00717，以及這個部落格
